@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+<h2>The href Attribute</h2>
+<h1>New heaser </h1>
+
+<p title="just some extra info" style="color:red">HTML links are <br> defined with the a tag. The link address is specified in the href attribute:</p>
+
+<img src="img_girloooo.jpg" width="100" height="100" alt="haiwezi display">
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+</body>
+</html>
