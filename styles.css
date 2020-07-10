@@ -5,6 +5,15 @@
 }
 
 .author2{
-    color:blue;
-    background-color: antiquewhite;
+    color:white;
+    background-color: black;
+}
+
+.important{
+    color:white;
+    background-color: black;
+}
+
+.cat-climate{
+    color:yellow;
 }
